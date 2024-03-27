@@ -1,0 +1,43 @@
+﻿<Window x:Class="wpf_GestioneNegozio.GestioneCategoria"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpf_GestioneNegozio"
+        mc:Ignorable="d"
+        Title="GestioneCategoria" Height="450" Width="800">
+    <DockPanel>
+        
+   
+    <StackPanel Width="250">
+        <Label>GESTIONE CATEGORIA</Label>
+        <Label>Inserisci Categoria</Label>
+        <TextBox x:Name="tbNome" TextChanged="tbNome_TextChanged"/>
+        <Button x:Name="btnSalva" Click="btnSalva_Click">Salva Categoria</Button>
+
+        <Label>Inserisci Id categria da aggiornare</Label>
+        <TextBox x:Name="tbId" TextChanged="tbNome_TextChanged"/>
+        <Label>Inserisci nuovo nome categoria</Label>
+        <TextBox x:Name="tbNomeCat" TextChanged="tbNome_TextChanged"/>
+        <Button x:Name="btnAggiorna" Click="btnAggiorna_Click">Aggiorna Categoria</Button>
+
+
+        <Label>Inserisci Id categoria da cancellare</Label>
+        <TextBox x:Name="tbId2" TextChanged="tbNome_TextChanged"/>
+        <Button x:Name="btnCancella" Click="btnCancella_Click">Cancella Categoria</Button>
+
+         <Button x:Name="btnHome" Click="btnHome_Click">Torna a Home</Button>
+
+        </StackPanel>
+
+    <Grid>
+        <DataGrid x:Name="dgCategoria" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn
+                  Header="Nome"
+                  Binding= "{Binding Nome}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+    </DockPanel>
+</Window>

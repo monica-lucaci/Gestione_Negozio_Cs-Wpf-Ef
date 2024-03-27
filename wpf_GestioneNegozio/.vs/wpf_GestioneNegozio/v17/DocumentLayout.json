@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\gestioneprodotto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:gestioneprodotto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\gestioneprodotto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:gestioneprodotto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\gestioneordine.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:gestioneordine.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\gestionecategoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:gestionecategoria.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\gestionecategoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:gestionecategoria.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\gestioneutente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:gestioneutente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\gestionevariazione.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:gestionevariazione.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\dal\\categoriumdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:dal\\categoriumdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:dal\\idal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\models\\dbgestionenegoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:models\\dbgestionenegoziocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|c:\\users\\utente\\source\\repos\\wpf_gestionenegozio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08C8A2F3-E2BE-4A70-834C-BBBCE55BCDE8}|wpf_GestioneNegozio.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestioneProdotto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneProdotto.xaml.cs",
+              "RelativeDocumentMoniker": "GestioneProdotto.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneProdotto.xaml.cs",
+              "RelativeToolTip": "GestioneProdotto.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:51:46.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T08:21:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestioneCategoria.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneCategoria.xaml",
+              "RelativeDocumentMoniker": "GestioneCategoria.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneCategoria.xaml",
+              "RelativeToolTip": "GestioneCategoria.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T15:34:05.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestioneOrdine.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneOrdine.xaml",
+              "RelativeDocumentMoniker": "GestioneOrdine.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneOrdine.xaml",
+              "RelativeToolTip": "GestioneOrdine.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:27:10.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestioneProdotto.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneProdotto.xaml",
+              "RelativeDocumentMoniker": "GestioneProdotto.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneProdotto.xaml",
+              "RelativeToolTip": "GestioneProdotto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T15:48:29.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAArwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:21:43.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestioneCategoria.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneCategoria.xaml.cs",
+              "RelativeDocumentMoniker": "GestioneCategoria.xaml.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneCategoria.xaml.cs",
+              "RelativeToolTip": "GestioneCategoria.xaml.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAvwGQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:34:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GestioneUtente.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneUtente.xaml",
+              "RelativeDocumentMoniker": "GestioneUtente.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneUtente.xaml",
+              "RelativeToolTip": "GestioneUtente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:26:47.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GestioneVariazione.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneVariazione.xaml",
+              "RelativeDocumentMoniker": "GestioneVariazione.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\GestioneVariazione.xaml",
+              "RelativeToolTip": "GestioneVariazione.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T16:27:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriumDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\DAL\\CategoriumDal.cs",
+              "RelativeDocumentMoniker": "DAL\\CategoriumDal.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\DAL\\CategoriumDal.cs",
+              "RelativeToolTip": "DAL\\CategoriumDal.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwIAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:42:04.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDal.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\DAL\\IDal.cs",
+              "RelativeDocumentMoniker": "DAL\\IDal.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\DAL\\IDal.cs",
+              "RelativeToolTip": "DAL\\IDal.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:39:41.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T11:24:49.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DbGestioneNegozioContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\Models\\DbGestioneNegozioContext.cs",
+              "RelativeDocumentMoniker": "Models\\DbGestioneNegozioContext.cs",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\Models\\DbGestioneNegozioContext.cs",
+              "RelativeToolTip": "Models\\DbGestioneNegozioContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:37:01.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\utente\\source\\repos\\wpf_GestioneNegozio\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T11:25:42.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
